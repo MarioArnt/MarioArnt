@@ -30,4 +30,6 @@ Apart from coding, I like:
 Feel free to reach me mario[AT]arnautou.fr
 
 >
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. *Martin Fowler*
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+>
+> *Martin Fowler*
