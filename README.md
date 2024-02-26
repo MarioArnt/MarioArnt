@@ -17,8 +17,13 @@ I enjoy learning new things and doing things to the best of my ability. I also l
 
 I also have a passion for teaching and sharing knowledge with younger developers.
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. *Martin Fowler*
+Apart from coding, I like:
 
-Apart from coding, I like skiing ⛷️, paraglinding 🪂, climbing 🧗, rollerskating 🛼 and playing basketball 🏀
+* 🪂 paragliding
+* 🧗 climbing
+* 🛼 rollerskates
+* 🏀 basket-ball
 
 Feel free to reach me mario[AT]arnautou.fr
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. *Martin Fowler*
