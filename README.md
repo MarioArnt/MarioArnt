@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Mario, I'm an Cloud-Native Engineer, living in Grenoble (French Alps 🏔️)
+My name is Mario, I'm an Web Development Engineer, living in Grenoble *(French Alps 🏔️)*
 
-I am a web engineer living near Grenoble in the Alps. I have been coding since 2008 out of passion, and professionally for the past 10 years.
+I have been coding since 2008 out of passion, and professionally for the past 10 years.
 
 Since that time and the advent of Web 2.0, I have witnessed many revolutions, both fruitful and sterile, in the ever-changing world of web development.
 
