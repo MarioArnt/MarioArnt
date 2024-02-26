@@ -12,6 +12,7 @@ From my beginnings with dynamic websites using the MVC paradigm with PHP and MyS
 * the industrialization and automation of delivery, to ship code faster and on a more relaible way.
 * the shift to the Cloud, with more automation and considering the Fin and Sec aspects.
 * the web back to SSR, and more generally, a new era where we are looking for simplicity and performance, to reduce the digital footprint.
+* And now the GenAI that can write pretty decent code 🤖
 
 And a lot of others ! the list would be too long, given how much has happened in our Tech microcosm over the past 15 years.
 
