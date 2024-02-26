@@ -19,6 +19,7 @@ I also have a passion for teaching and sharing knowledge with younger developers
 
 Apart from coding, I like:
 
+* ⛷️ skiing
 * 🪂 paragliding
 * 🧗 climbing
 * 🛼 rollerskates
